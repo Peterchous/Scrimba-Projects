@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+main {
+    display: flex;
+}
+
+.left-side {
+    display: block;
+    margin: 10px;
+}
+
+.right-side {
+    display: block;
+    width: 75%;
+    margin: 0 20px;
+}
+
+.right-side p {
+    font-size: 18px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 100%;
+}
+
+.elements {
+    color: #565959;
+    margin-bottom: 0;
+}
